@@ -164,6 +164,7 @@ project/
 - Implement multi-objective optimization to balance imperceptibility, robustness, and embedding capacity
 - Develop confidence scores for parameter predictions to flag uncertain cases
 - Create web-based interface for interactive parameter optimization
+- Implement more sophisticated per-block parameter optimisation
 
 **Advanced AI Integration:**
 - Neural network approaches for more complex feature learning
