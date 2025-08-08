@@ -189,4 +189,5 @@ project/
 * Perceptual quality metrics implementation using established computer vision libraries
 * Machine learning framework built on scikit-learn for accessibility and reproducibility
 * Training dataset methodology inspired by image quality assessment research
-* Special thanks to the Building AI course community for feedback and testing support
+* Building AI course for introducing me to the power of ML solutions
+* Special thanks to the Building AI course community for feedback
