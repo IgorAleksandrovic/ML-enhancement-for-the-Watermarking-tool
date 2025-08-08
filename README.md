@@ -1,4 +1,4 @@
-# ML-enhancment-for-the-Watermarking-tool
+# ML-enhancement-for-the-Watermarking-tool
 Final project for the Building AI course
 Enhancement of the current watermarking tool https://github.com/IgorAleksandrovic/Block-based-DWT-DTC-watermarking.git using ML techniques in order to optimize watermarking parameters on a per image basis
 
